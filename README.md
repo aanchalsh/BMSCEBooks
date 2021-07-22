@@ -1,2 +1,9 @@
 # BMSCEBooks
+Creator: Aanchal Shah
 BMSCE Books using Netbeans (4th SEM JAVA PROJECT) 
+
+
+NETBEANS IDE 12.4
+JAVA DERBY DATABASE 
+JSWING
+
